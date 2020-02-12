@@ -1,1 +1,1 @@
-
+One function of the operating system is to boot the computer. Also known as starting a computer. It checks the computer and makes sure it is ready to work.
